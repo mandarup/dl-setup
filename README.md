@@ -55,6 +55,10 @@ There are several great guides with a similar goal. Some are limited in scope, w
         sudo dpkg -i cuda-repo-ubuntu1404*amd64.deb
         sudo apt-get update
         sudo apt-get install cuda
+	
+**EDIT-mandar
+cuda 8.0
+https://developer.nvidia.com/cuda-downloads
         
 * Add CUDA to the environment variables
 
